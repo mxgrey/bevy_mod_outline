@@ -44,3 +44,7 @@ path = "examples/animated_fox.rs"
 required-features = [
     "bevy/animation", "bevy/bevy_gltf", "bevy/png", "bevy/bevy_scene"
 ]
+
+[[example]]
+name = "stack"
+path = "examples/stack.rs"
